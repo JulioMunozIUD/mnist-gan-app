@@ -1,0 +1,17 @@
+[project]
+name = "mnist-gan-app"
+version = "0.1.0"
+description = "Aplicación Streamlit con DCGAN + GPT-2 para marketing de moda"
+requires-python = ">=3.10"
+
+dependencies = [
+  "torch",
+  "torchvision",
+  "transformers",
+  "streamlit",
+  "numpy",
+  "pillow",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
