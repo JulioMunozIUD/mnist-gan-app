@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/app_streamlit.py
+src/config.py
+src/generator_service.py
+src/model.py
+src/mnist_gan_app.egg-info/PKG-INFO
+src/mnist_gan_app.egg-info/SOURCES.txt
+src/mnist_gan_app.egg-info/dependency_links.txt
+src/mnist_gan_app.egg-info/requires.txt
+src/mnist_gan_app.egg-info/top_level.txt

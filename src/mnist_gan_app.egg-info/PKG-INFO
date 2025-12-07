@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: mnist-gan-app
+Version: 0.1.0
+Summary: Aplicación Streamlit con DCGAN + GPT-2 para marketing de moda
+Requires-Python: >=3.10
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: transformers
+Requires-Dist: streamlit
+Requires-Dist: numpy
+Requires-Dist: pillow
